@@ -1,5 +1,7 @@
 # Cloud Solution Engineer
 
+*Dedicated and results-driven DevOps professional with 2+ years of hands-on experience in optimizing and streamlining IT operations. Seeking a challenging role to leverage expertise in DevOps technologies and cloud infrastructure to contribute to a dynamic team.*
+
 #### Technical Skills: Microsoft Azure, AWS, Terraform, Docker, Kubernetes, GitLab, Azure DevOps
 
 ## Education
@@ -45,8 +47,20 @@
 
   ![c-d-x-PDX_a_82obo-unsplash.jpg](/assets/img/c-d-x-PDX_a_82obo-unsplash.jpg)
 
+## ACHIEVEMENTS
+- Received recognition for successful implementation of innovative solutions and consistently demonstrated exceptional 
+  performance across diverse projects.
+- Showcased outstanding performance and technical proficiency in leading critical Azure migration and deployment initiatives.
+- Recognized by management for exceptional project delivery and innovation in Azure DevOps practices, resulting in 
+  commendation and awards.
+
+## CERTIFICATIONS
+- AZ-900 Microsoft Azure Fundamentals
+- AZ-104 Azure Administrator Associate
+- AZ-400 Azure DevOps Engineer Expert
 
 ## Connect with Me
-- [CICD Blog](https://medium.com/@dheemandas1997)
+- [Medium Blog](https://medium.com/@dheemandas1997)
 - [Linkedin](https://www.linkedin.com/in/dheeman-das/)
 - [Gmail](mailto:dheeman2912@gmail.com)
+- [My_Resume](https://drive.google.com/file/d/1-pwr8osFxqYDq_YIwCDnlMLLxvGildd4/view)
