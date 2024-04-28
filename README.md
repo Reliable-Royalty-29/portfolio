@@ -4,9 +4,18 @@
 #### Technical Skills: Microsoft Azure, AWS, Terraform, Docker, Kubernetes, GitLab, Azure DevOps
 
 ## Education
-- B.Tech, Computer Science | Asansol Engineering College (_June 2021_)								       		
-- 12th,   Science	| Sudarshanpur Dwarika Prashad Uchcha Vidyachakra (_May 2017_)	 			        		
-- 10th,   Science | Hemtabad Adarsha Vidyalaya  (_June 2015_)
+
+- B.Tech, Computer Science  
+  **Asansol Engineering College**  
+  _(June 2021)_
+
+- 12th, Science  
+  **Sudarshanpur Dwarika Prashad Uchcha Vidyachakra**  
+  _(May 2017)_
+
+- 10th, Science  
+  **Hemtabad Adarsha Vidyalaya**  
+  _(June 2015)_
 
 ## Work Experience
 **Cloud Solution Engineer @ Ingram Micro Cloud (_April 2021 - Present_)**
