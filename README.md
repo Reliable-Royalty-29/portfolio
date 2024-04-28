@@ -1,3 +1,6 @@
+![IMG-20240323-WA0002-01.jpeg](/assets/img/IMG-20240323-WA0002-01.jpeg)
+
+
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
