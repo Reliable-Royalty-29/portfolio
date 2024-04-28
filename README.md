@@ -28,4 +28,25 @@
   providing technical expertise and support throughout the transition phase, resulting in improved cost management and 
   resource optimization.
 
+## Projects
+**Azure CI/CD Pipeline using Azure Pipelines & Argo CD | Multi Microservice Project**
+- Complete CI/CD pipeline implementation for a microservice application with a tiered architecture. This application 
+  consists of three separate microservices, each written in a different language. Redis is used for caching, and a MySQL 
+  database holds user data. Azure CI Pipelines were used to create the pipeline for Python, DotNet, and Java applications. 
+  Argo CD was used to deploy the microservices onto the Azure Kubernetes services.
+
+  ![alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg](/assets/img/alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg)
+
+**Azure CI/CD Pipeline using Azure Pipelines & Argo CD | Multi Microservice Project**
+- Streamlined deployment procedures and enhanced infrastructure consistency and repeatability by implementing Infrastructure 
+  as Code (IaC) techniques with Terraform to automate the provisioning and configuration of Azure resources via a CI/CD 
+  pipeline. This involves multiple phases, including the Delete and Deploy phases. Upon review and approval, the 
+  delete stage will be initiated, causing the infrastructure to be automatically deleted from the Azure Portal.
+
+  ![c-d-x-PDX_a_82obo-unsplash.jpg](/assets/img/c-d-x-PDX_a_82obo-unsplash.jpg)
+
+
+## Connect with Me
 - [CICD Blog](https://medium.com/@dheemandas1997)
+- [Linkedin](https://www.linkedin.com/in/dheeman-das/)
+- [Gmail](mailto:dheeman2912@gmail.com)
