@@ -1,5 +1,6 @@
-# Cloud Solution Engineer
-![IMG-20240323-WA0002-01.jpeg](/assets/img/IMG-20240323-WA0002-01.jpeg)
+<img src="/portfolio/assets/img/IMG-20240323-WA0002-01.jpeg" alt="Logo" style="border-radius: 50%;">
+
+<span style="color:blue"># Cloud Solution Engineer</span>
 
 #### Technical Skills: Microsoft Azure, AWS, Terraform, Docker, Kubernetes, GitLab, Azure DevOps
 
