@@ -1,6 +1,6 @@
 # Cloud Solution Engineer
 
-*Dedicated and results-driven DevOps professional with 2+ years of hands-on experience in optimizing and streamlining IT operations. Seeking a challenging role to leverage expertise in DevOps technologies and cloud infrastructure to contribute to a dynamic team.*
+*Dedicated and results-driven DevOps professional with 3+ years of hands-on experience in optimizing and streamlining IT operations. Seeking a challenging role to leverage expertise in DevOps technologies and cloud infrastructure to contribute to a dynamic team.*
 
 #### Technical Skills: Microsoft Azure, AWS, Terraform, Docker, Kubernetes, GitLab, Azure DevOps
 
@@ -37,9 +37,9 @@
   database holds user data. Azure CI Pipelines were used to create the pipeline for Python, DotNet, and Java applications. 
   Argo CD was used to deploy the microservices onto the Azure Kubernetes services.
 
-  ![alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg](/assets/img/alessandro-bianchi-_kdTyfnUFAc-unsplash.jpg)
+  ![Nature.jpg](/assets/img/Nature.jpg)
 
-**Azure CI/CD Pipeline using Azure Pipelines & Argo CD | Multi Microservice Project**
+**End-to-End CI/CD Pipeline for Infrastructure Provisioning Using Terraform and Azure DevOps| Terraform Project**
 - Streamlined deployment procedures and enhanced infrastructure consistency and repeatability by implementing Infrastructure 
   as Code (IaC) techniques with Terraform to automate the provisioning and configuration of Azure resources via a CI/CD 
   pipeline. This involves multiple phases, including the Delete and Deploy phases. Upon review and approval, the 
@@ -64,3 +64,5 @@
 - [Linkedin](https://www.linkedin.com/in/dheeman-das/)
 - [Gmail](mailto:dheeman2912@gmail.com)
 - [My_Resume](https://drive.google.com/file/d/1-pwr8osFxqYDq_YIwCDnlMLLxvGildd4/view)
+
+  Made ❤️ with Heart 
