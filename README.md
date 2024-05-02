@@ -31,7 +31,7 @@
   resource optimization.
 
 ## Projects
-**Azure CI/CD Pipeline using Azure Pipelines & Argo CD | Multi Microservice Project**
+**[Azure CI/CD Pipeline using Azure Pipelines & Argo CD | Multi Microservice Project](https://github.com/Reliable-Royalty-29/Terraform-Project/blob/main/README.md)**
 - Complete CI/CD pipeline implementation for a microservice application with a tiered architecture. This application 
   consists of three separate microservices, each written in a different language. Redis is used for caching, and a MySQL 
   database holds user data. Azure CI Pipelines were used to create the pipeline for Python, DotNet, and Java applications. 
@@ -44,6 +44,12 @@
   as Code (IaC) techniques with Terraform to automate the provisioning and configuration of Azure resources via a CI/CD 
   pipeline. This involves multiple phases, including the Delete and Deploy phases. Upon review and approval, the 
   delete stage will be initiated, causing the infrastructure to be automatically deleted from the Azure Portal.
+
+**[LangChain Eats: The Automatic Restaurant Name & Menu Generator](https://myapp29.streamlit.app/)**
+- Introducing the LangChain-powered Automatic Restaurant Generator! Powered by cutting-edge AI from Azure OpenAI, this 
+  innovative application creates unique restaurant names with a click. But it doesn't stop there! Not only does it generate 
+  names, but it also provides a sneak peek into the menu items available at each restaurant. Hosted on Streamlit for a 
+  seamless user experience. Discover your next dining experience effortlessly!
 
   ![c-d-x-PDX_a_82obo-unsplash.jpg](/assets/img/c-d-x-PDX_a_82obo-unsplash.jpg)
 
