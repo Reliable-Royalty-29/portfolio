@@ -45,7 +45,7 @@
   pipeline. This involves multiple phases, including the Delete and Deploy phases. Upon review and approval, the 
   delete stage will be initiated, causing the infrastructure to be automatically deleted from the Azure Portal.
 
-**[LangChain Eats: The Automatic Restaurant Name & Menu Generator](https://myapp29.streamlit.app/)**
+**[LangChain Eats: The Automatic Restaurant Name & Menu Generator](https://hanumaan.streamlit.app/)**
 - Introducing the LangChain-powered Automatic Restaurant Generator! Powered by cutting-edge AI from Azure OpenAI, this 
   innovative application creates unique restaurant names with a click. But it doesn't stop there! Not only does it generate 
   names, but it also provides a sneak peek into the menu items available at each restaurant. Hosted on Streamlit for a 
