@@ -2,4 +2,4 @@ title: Dheeman Das
 logo: /assets/img/My_Image.png
 description: CI/CD Pipeline Automation Specialist
 # show_downloads: true
-theme: jekyll-theme-minimal
+theme:  jekyll-remote-theme
