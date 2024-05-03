@@ -3,3 +3,6 @@ logo: /assets/img/My_Image.png
 description: CI/CD Pipeline Automation Specialist
 # show_downloads: true
 theme:  jekyll-remote-theme
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
