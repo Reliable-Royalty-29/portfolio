@@ -20,15 +20,15 @@
 
 ## Work Experience
 **Cloud Solution Engineer @ Ingram Micro Cloud (_April 2021 - Present_)** <be>
-●	As a fresher, I was introduced to the world of Azure Cloud, Azure DevOps, SDLC process, IAC, and Containerization process.
-●	Gained a good understanding of Cloud Domain Azure and Azure DevOps Platform.
-●	Designed and executed CI/CD pipelines with Azure DevOps and Jenkins for projects, automating build, test, and deployment processes, leading to notable time savings and enhanced efficiency.
-●	Deployed and configured Azure resources, including VMs, Virtual Networks, Azure Storage, AKS, NSG, and
-Azure Key Vault, for enhanced project integration and scalability.
-●	Utilized Terraform and Azure CI/CD for IaC, automating Azure resource provisioning, enhancing deployment efficiency, and ensuring consistency.
-●	Led migration of 15+ Azure subscriptions from PAYG to CSP model, offering technical support and expertise, resulting in enhanced cost management and resource optimization.
-●	Proficient in utilizing Git for version control, including managing repositories, branching, and merging code changes.
-●	Implemented Docker to containerize applications, stored images in Azure Container Registry (ACR), and orchestrated deployments with Azure Kubernetes Service (AKS), optimizing scalability and deployment efficiency.
+-	As a fresher, I was introduced to the world of Azure Cloud, Azure DevOps, SDLC process, IAC, and Containerization process.
+-	Gained a good understanding of Cloud Domain Azure and Azure DevOps Platform.
+-	Designed and executed CI/CD pipelines with Azure DevOps and Jenkins for projects, automating build, test, and deployment processes, leading to notable time savings and enhanced efficiency.
+-	Deployed and configured Azure resources, including VMs, Virtual Networks, Azure Storage, AKS, NSG, and
+  Azure Key Vault, for enhanced project integration and scalability.
+-	Utilized Terraform and Azure CI/CD for IaC, automating Azure resource provisioning, enhancing deployment efficiency, and ensuring consistency.
+-	Led migration of 15+ Azure subscriptions from PAYG to CSP model, offering technical support and expertise, resulting in enhanced cost management and resource optimization.
+-	Proficient in utilizing Git for version control, including managing repositories, branching, and merging code changes.
+-	Implemented Docker to containerize applications, stored images in Azure Container Registry (ACR), and orchestrated deployments with Azure Kubernetes Service (AKS), optimizing scalability and deployment efficiency.
 
 
 ## Projects
@@ -62,11 +62,11 @@ Azure Key Vault, for enhanced project integration and scalability.
   commendation and awards.
 
 ## CERTIFICATIONS
-●	AZ-900: Azure Fundamentals
-●	AZ-104: Microsoft Azure Administrator
-●	AZ-305: Designing Microsoft Azure Infrastructure Solutions
-●	AZ 700: Azure Network Engineer Associate
-●	AZ-400 Azure DevOps Engineer Expert
+-	AZ-900: Azure Fundamentals
+-	AZ-104: Microsoft Azure Administrator
+-	AZ-305: Designing Microsoft Azure Infrastructure Solutions
+- AZ 700: Azure Network Engineer Associate
+-	AZ-400 Azure DevOps Engineer Expert
 
 
 ## Connect with Me
