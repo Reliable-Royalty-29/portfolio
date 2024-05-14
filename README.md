@@ -19,7 +19,7 @@
   _(June 2015)_
 
 ## Work Experience
-**Cloud Solution Engineer @ Ingram Micro Cloud (_April 2021 - Present_)**
+**Cloud Solution Engineer @ Ingram Micro Cloud (_April 2021 - Present_)** <be>
 ●	As a fresher, I was introduced to the world of Azure Cloud, Azure DevOps, SDLC process, IAC, and Containerization process.
 ●	Gained a good understanding of Cloud Domain Azure and Azure DevOps Platform.
 ●	Designed and executed CI/CD pipelines with Azure DevOps and Jenkins for projects, automating build, test, and deployment processes, leading to notable time savings and enhanced efficiency.
