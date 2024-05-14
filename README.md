@@ -1,8 +1,8 @@
 # Cloud Solution Engineer
 
-*Dedicated and results-driven DevOps professional with 3+ years of hands-on experience in optimizing and streamlining IT operations. Seeking a challenging role to leverage expertise in DevOps technologies and cloud infrastructure to contribute to a dynamic team.*
+*Experienced Cloud Solutions Engineer with over 3 years of expertise in managing and migrating cloud environments. Proficient in infrastructure management, troubleshooting, and optimizing performance. Skilled in Azure DevOps for seamless integration and automated deployment.*
 
-#### Technical Skills: Microsoft Azure, AWS, Terraform, Docker, Kubernetes, GitLab, Azure DevOps
+#### Technical Skills: Microsoft Azure, Terraform, Docker, Azure Kubernetes Service, Git, Azure DevOps
 
 ## Education
 
@@ -20,18 +20,19 @@
 
 ## Work Experience
 **Cloud Solution Engineer @ Ingram Micro Cloud (_April 2021 - Present_)**
-- Designed and implemented end-to-end CI/CD pipelines using Microsoft Azure DevOps, and GitLab for multiple projects, 
-  automating build, test, and deployment processes, resulting in significant time savings and increased efficiency.
-- Implemented Infrastructure as Code (IaC) practices using Terraform to automate the provisioning and configuration of Azure 
-  resources, streamlining deployment processes and improving infrastructure consistency and repeatability.
-- Utilized container orchestration tools like Kubernetes (AKS) to orchestrate Docker containers, streamlining CI/CD 
-  pipelines. This optimized resource utilization and enabled seamless deployment across different environments.
-- Led the migration of Azure cloud subscriptions from Pay-As-You-Go (PAYG) to the Cloud Solution Provider (CSP) model, 
-  providing technical expertise and support throughout the transition phase, resulting in improved cost management and 
-  resource optimization.
+●	As a fresher, I was introduced to the world of Azure Cloud, Azure DevOps, SDLC process, IAC, and Containerization process.
+●	Gained a good understanding of Cloud Domain Azure and Azure DevOps Platform.
+●	Designed and executed CI/CD pipelines with Azure DevOps and Jenkins for projects, automating build, test, and deployment processes, leading to notable time savings and enhanced efficiency.
+●	Deployed and configured Azure resources, including VMs, Virtual Networks, Azure Storage, AKS, NSG, and
+Azure Key Vault, for enhanced project integration and scalability.
+●	Utilized Terraform and Azure CI/CD for IaC, automating Azure resource provisioning, enhancing deployment efficiency, and ensuring consistency.
+●	Led migration of 15+ Azure subscriptions from PAYG to CSP model, offering technical support and expertise, resulting in enhanced cost management and resource optimization.
+●	Proficient in utilizing Git for version control, including managing repositories, branching, and merging code changes.
+●	Implemented Docker to containerize applications, stored images in Azure Container Registry (ACR), and orchestrated deployments with Azure Kubernetes Service (AKS), optimizing scalability and deployment efficiency.
+
 
 ## Projects
-**[Azure CI/CD Pipeline using Azure Pipelines & Argo CD | Multi Microservice Project](https://github.com/Reliable-Royalty-29/Terraform-Project/blob/main/README.md)**
+**[Azure CI/CD Pipeline using Azure Pipelines & Argo CD | Multi Microservice Project]**
 - Complete CI/CD pipeline implementation for a microservice application with a tiered architecture. This application 
   consists of three separate microservices, each written in a different language. Redis is used for caching, and a MySQL 
   database holds user data. Azure CI Pipelines were used to create the pipeline for Python, DotNet, and Java applications. 
@@ -39,13 +40,13 @@
 
   ![Nature.jpg](/assets/img/Nature.jpg)
 
-**[End-to-End CI/CD Pipeline for Infrastructure Provisioning Using Terraform and Azure DevOps| Terraform Project](https://github.com/Reliable-Royalty-29/Terraform-Project/blob/main/README.md)**
+**[End-to-End CI/CD Pipeline for Infrastructure Provisioning Using Terraform and Azure DevOps| Terraform Project]**
 - Streamlined deployment procedures and enhanced infrastructure consistency and repeatability by implementing Infrastructure 
   as Code (IaC) techniques with Terraform to automate the provisioning and configuration of Azure resources via a CI/CD 
   pipeline. This involves multiple phases, including the Delete and Deploy phases. Upon review and approval, the 
   delete stage will be initiated, causing the infrastructure to be automatically deleted from the Azure Portal.
 
-**[LangChain Eats: The Automatic Restaurant Name & Menu Generator](https://hanumaan.streamlit.app/)**
+**[LangChain Eats: The Automatic Restaurant Name & Menu Generator]**
 - Introducing the LangChain-powered Automatic Restaurant Generator! Powered by cutting-edge AI from Azure OpenAI, this 
   innovative application creates unique restaurant names with a click. But it doesn't stop there! Not only does it generate 
   names, but it also provides a sneak peek into the menu items available at each restaurant. Hosted on Streamlit for a 
@@ -61,9 +62,12 @@
   commendation and awards.
 
 ## CERTIFICATIONS
-- AZ-900 Microsoft Azure Fundamentals
-- AZ-104 Azure Administrator Associate
-- AZ-400 Azure DevOps Engineer Expert
+●	AZ-900: Azure Fundamentals
+●	AZ-104: Microsoft Azure Administrator
+●	AZ-305: Designing Microsoft Azure Infrastructure Solutions
+●	AZ 700: Azure Network Engineer Associate
+●	AZ-400 Azure DevOps Engineer Expert
+
 
 ## Connect with Me
 - [Medium Blog](https://medium.com/@dheemandas1997)
