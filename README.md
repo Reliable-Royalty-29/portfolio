@@ -73,6 +73,6 @@
 - [Medium Blog](https://medium.com/@dheemandas1997)
 - [Linkedin](https://www.linkedin.com/in/dheeman-das/)
 - [Gmail](mailto:dheeman2912@gmail.com)
-- [My_Resume](https://github.com/Dheemaan29/Dheemaan29/blob/main/DheemanDas_Resume.pdf)
+- [My_Resume](https://github.com/Reliable-Royalty-29/portfolio/blob/main/Dheeman_Resume.pdf)
 
 Made with ❤️ in India
