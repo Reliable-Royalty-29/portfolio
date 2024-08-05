@@ -1,8 +1,8 @@
 # Cloud Solution Engineer
 
-*Experienced Cloud Solutions Engineer with over 3 years of expertise in managing and migrating cloud environments. Proficient in infrastructure management, troubleshooting, and optimizing performance. Skilled in Azure DevOps for seamless integration and automated deployment.*
+*Dedicated and result-driven DevOps Engineer with 3 years of hands-on experience in optimizing and streamlining IT operations, reducing cloud costs, and enhancing organizational processes seeking a challenging role to leverage DevOps technologies and cloud infrastructure expertise to contribute to a dynamic team. Strong experience in Azure, AWS, Kubernetes, Terraform, Ansible, Git, Linux, and Python.*
 
-#### Technical Skills: Microsoft Azure, Terraform, Docker, Azure Kubernetes Service, Git, Azure DevOps
+#### Technical Skills: Microsoft Azure, AWS, Helm, Terraform, Docker, Kubernetes, Git, Azure DevOps, GitHub Action, ArgoCD(GitOps)
 
 ## Education
 
@@ -20,46 +20,45 @@
 
 ## Work Experience
 **Cloud Solution Engineer @ Ingram Micro Cloud (_April 2021 - Present_)** <be>
--	As a fresher, I was introduced to the world of Azure Cloud, Azure DevOps, SDLC process, IAC, and Containerization process.
--	Gained a good understanding of Cloud Domain Azure and Azure DevOps Platform.
--	Designed and executed CI/CD pipelines with Azure DevOps and Jenkins for projects, automating build, test, and deployment processes, leading to notable time savings and enhanced efficiency.
--	Deployed and configured Azure resources, including VMs, Virtual Networks, Azure Storage, AKS, NSG, and
-  Azure Key Vault, for enhanced project integration and scalability.
--	Utilized Terraform and Azure CI/CD for IaC, automating Azure resource provisioning, enhancing deployment efficiency, and ensuring consistency.
--	Led migration of 15+ Azure subscriptions from PAYG to CSP model, offering technical support and expertise, resulting in enhanced cost management and resource optimization.
+-	Developed and managed CI/CD pipelines using Azure DevOps tools, enhancing automation and efficiency.
+-	Designed, implemented, and maintained Azure and AWS infrastructure to support scalable and secure applications.
+-	Managed infrastructure-as-code using Terraform and other tools, ensuring consistent and repeatable deployments.
+-	Deployed and configured Azure resources, including VMs, Virtual Networks, Azure Storage, AKS, NSG, VNG, Azure Key Vault, and App Service for enhanced 
+  project integration and scalability.
+- Deployed and managed Azure AKS clusters to support containerized applications.
+-	Proficient in secret management, securely storing sensitive data like API keys, connection strings, and passwords using Azure Key Vault or Azure DevOps 
+  Variable Groups, while avoiding hardcoded secrets for enhanced security.
 -	Proficient in utilizing Git for version control, including managing repositories, branching, and merging code changes.
--	Implemented Docker to containerize applications, stored images in Azure Container Registry (ACR), and orchestrated deployments with Azure Kubernetes Service (AKS), optimizing scalability and deployment efficiency.
+-	Implemented and maintained Docker environments, ensuring smooth integration with existing infrastructure.
+-	Automated administrative tasks using PowerShell scripts, improving operational efficiency.
+-	Designed and deployed monitoring and alerting solutions to enhance system reliability and minimize downtime using Azure Monitor and Grafana resolving 
+  issues promptly to maintain high availability.
+- Configured role-based access control (RBAC) in Azure DevOps to restrict access to sensitive data and resources, effectively managing permissions and 
+  reducing the risk of unauthorized access.
 
 
 ## Projects
-**[Azure CI/CD Pipeline using Azure Pipelines & Argo CD | Multi Microservice Project]**
-- Complete CI/CD pipeline implementation for a microservice application with a tiered architecture. This application 
-  consists of three separate microservices, each written in a different language. Redis is used for caching, and a MySQL 
-  database holds user data. Azure CI Pipelines were used to create the pipeline for Python, DotNet, and Java applications. 
-  Argo CD was used to deploy the microservices onto the Azure Kubernetes services.
+**[Go-Web-App-Devops-Project](https://github.com/Reliable-Royalty-29/go-web-app-devops.git)**
+- The main goal of this project is to implement DevOps practices in the Go web application. The project is a simple website written in Golang. It uses the 
+  net/http package to serve HTTP requests.
 
-  ![Nature.jpg](/assets/img/Nature.jpg)
+**[Spotify-Playlist-Creation-with-Terraform](https://github.com/Reliable-Royalty-29/Spotify-Playlist-Creation-with-Terraform.git)**
+- The main goal of this project is to implement automation in today's fast-paced world, where efficiency and productivity are paramount. As a DevOps 
+  enthusiast, I am always on the lookout for innovative ways to leverage automation tools to simplify tasks. Recently, I embarked on an exciting project 
+  involving using Terraform to automate the creation of multiple Spotify playlists.
 
-**[End-to-End CI/CD Pipeline for Infrastructure Provisioning Using Terraform and Azure DevOps| Terraform Project]**
-- Streamlined deployment procedures and enhanced infrastructure consistency and repeatability by implementing Infrastructure 
-  as Code (IaC) techniques with Terraform to automate the provisioning and configuration of Azure resources via a CI/CD 
-  pipeline. This involves multiple phases, including the Delete and Deploy phases. Upon review and approval, the 
-  delete stage will be initiated, causing the infrastructure to be automatically deleted from the Azure Portal.
+**[Azure DevOps with Terraform](https://github.com/Reliable-Royalty-29/Terraform-Project.git)**
+- The main goal of this project is to streamline deployment and enhance infrastructure consistency using Terraform for Infrastructure as Code (IaC). It 
+  involves automating the provisioning and configuration of Azure resources through a CI/CD pipeline, with automated deletion following review and approval.
 
-**[LangChain Eats: The Automatic Restaurant Name & Menu Generator]**
-- Introducing the LangChain-powered Automatic Restaurant Generator! Powered by cutting-edge AI from Azure OpenAI, this 
-  innovative application creates unique restaurant names with a click. But it doesn't stop there! Not only does it generate 
-  names, but it also provides a sneak peek into the menu items available at each restaurant. Hosted on Streamlit for a 
-  seamless user experience. Discover your next dining experience effortlessly!
-
-  ![c-d-x-PDX_a_82obo-unsplash.jpg](/assets/img/c-d-x-PDX_a_82obo-unsplash.jpg)
+**[Multi Microservices Deployment on AKS](https://github.com/Reliable-Royalty-29/Multi-Microservice-Deployment-on-AKS.git)**
+- The main goal of this project is to deploy multi-tier microservices on AKS using Azure Pipelines, containerize the application with Docker, and securely 
+  store the Docker images in the Azure Container Registry.
 
 ## ACHIEVEMENTS
-- Received recognition for successful implementation of innovative solutions and consistently demonstrated exceptional 
-  performance across diverse projects.
-- Showcased outstanding performance and technical proficiency in leading critical Azure migration and deployment initiatives.
-- Recognized by management for exceptional project delivery and innovation in Azure DevOps practices, resulting in 
-  commendation and awards.
+- Acknowledged for leading comprehensive CI/CD projects, including Helm, ArgoCD, Docker, Kubernetes, Ingress Controller, and GitHub Actions.
+- Recognized for exceptional performance in deploying innovative solutions and managing critical Azure migration and deployment initiatives.
+- Commended by management for delivering outstanding project results and advancing Azure DevOps practices
 
 ## CERTIFICATIONS
 -	AZ-900: Azure Fundamentals
@@ -70,9 +69,12 @@
 
 
 ## Connect with Me
-- [Medium Blog](https://medium.com/@dheemandas1997)
+- [Medium Blogs](https://medium.com/@dheemandas1997)
 - [Linkedin](https://www.linkedin.com/in/dheeman-das/)
 - [Gmail](mailto:dheeman2912@gmail.com)
+- [HashNode Blogs](https://hashnode.com/@Dheeman29)
+- [My Linkedin Blogs](https://www.linkedin.com/posts/dheeman-das_devops-golang-aws-activity-7226115678406070272-EP4T?utm_source=share&utm_medium=member_desktop)
 - [My_Resume](https://github.com/Reliable-Royalty-29/portfolio/blob/main/Dheeman_Resume.pdf)
 
 Made with ❤️ in India
+&copy; Dheeman Das
