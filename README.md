@@ -79,9 +79,9 @@
 
 
 ## Connect with Me
-- [Medium Blogs](https://medium.com/@dheemandas1997)
+- [Medium Blogs](https://medium.com/@dheemandas2912)
 - [Linkedin](https://www.linkedin.com/in/dheeman-das/)
-- [Gmail](mailto:dheeman2912@gmail.com)
+- [Email me](mailto:dheeman2912@gmail.com)
 
 Made with ❤️ in India
 
