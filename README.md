@@ -5,7 +5,7 @@
 #### Technical Skills: 
 - Cloud & DevOps: Microsoft Azure, AWS, Azure DevOps, GitHub Actions, Terraform, Kubernetes, Docker, Helm, ArgoCD (GitOps).
 - Scripting & Automation: PowerShell, Bash.
-- Version Control & Monitoring: Git, Grafana, Azure Monitor, SonarQube
+- Version Control & Monitoring: Git, Grafana, Azure Monitor, SonarQube.
 
 ## Education
 
@@ -64,9 +64,11 @@
   store the Docker images in the Azure Container Registry.
 
 ## ACHIEVEMENTS
-- Acknowledged for leading comprehensive CI/CD projects, including Helm, ArgoCD, Docker, Kubernetes, Ingress Controller, and GitHub Actions.
-- Recognized for exceptional performance in deploying innovative solutions and managing critical Azure migration and deployment initiatives.
-- Commended by management for delivering outstanding project results and advancing Azure DevOps practices
+- Spearheaded a migration project that moved legacy infrastructure to Azure using Terraform, reducing cloud costs by 30%.
+- Automated end-to-end CI/CD pipelines across 3+ production environments, resulting in a 60% reduction in deployment time.
+- Implemented centralized monitoring dashboards using Grafana and Azure Monitor, reducing incident response time by 40%.
+- Successfully onboarded SonarQube into CI pipelines to improve code quality standards across multiple projects.
+- Acted as DevOps SME in cross-functional teams, contributing to infrastructure decisions and security audits.
 
 ## CERTIFICATIONS
 -	AZ-900: Azure Fundamentals
@@ -80,11 +82,7 @@
 - [Medium Blogs](https://medium.com/@dheemandas1997)
 - [Linkedin](https://www.linkedin.com/in/dheeman-das/)
 - [Gmail](mailto:dheeman2912@gmail.com)
-- [HashNode Blogs](https://hashnode.com/@Dheeman29)
-- [My Linkedin Blogs](https://www.linkedin.com/posts/dheeman-das_devops-golang-aws-activity-7226115678406070272-EP4T?utm_source=share&utm_medium=member_desktop)
-- [My_Resume](https://github.com/Reliable-Royalty-29/portfolio/blob/main/Dheeman_Resume.pdf)
 
 Made with ❤️ in India
 
 &copy; 2025 Dheeman Das
-© 2025 Dheeman Das
