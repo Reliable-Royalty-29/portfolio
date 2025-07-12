@@ -1,8 +1,11 @@
-# Cloud Solution Engineer
+# DevOps Engineer II
 
-*Dedicated and result-driven DevOps Engineer with 3 years of hands-on experience in optimizing and streamlining IT operations, reducing cloud costs, and enhancing organizational processes seeking a challenging role to leverage DevOps technologies and cloud infrastructure expertise to contribute to a dynamic team. Strong experience in Azure, AWS, Kubernetes, Terraform, Ansible, Git, Linux, and Python.*
+*Dedicated and result-driven DevOps Engineer with over 4 years of hands-on experience in optimizing IT operations, automating CI/CD processes, reducing cloud infrastructure costs, and enhancing system scalability. Seeking a challenging role to leverage expertise in Azure, Kubernetes, Terraform, and DevOps tools within a collaborative and growth-oriented environment.*
 
-#### Technical Skills: Microsoft Azure, AWS, Helm, Terraform, Docker, Kubernetes, Git, Azure DevOps, GitHub Action, ArgoCD(GitOps)
+#### Technical Skills: 
+Cloud & DevOps: Microsoft Azure, AWS, Azure DevOps, GitHub Actions, Terraform, Kubernetes, Docker, Helm, ArgoCD (GitOps).
+Scripting & Automation: PowerShell, Bash.
+Version Control & Monitoring: Git, Grafana, Azure Monitor, SonarQube
 
 ## Education
 
@@ -19,23 +22,28 @@
   _(June 2015)_
 
 ## Work Experience
-**Cloud Solution Engineer @ Ingram Micro Cloud (_April 2021 - Present_)** <be>
--	Developed and managed CI/CD pipelines using Azure DevOps tools, enhancing automation and efficiency.
--	Designed, implemented, and maintained Azure and AWS infrastructure to support scalable and secure applications.
--	Managed infrastructure-as-code using Terraform and other tools, ensuring consistent and repeatable deployments.
--	Deployed and configured Azure resources, including VMs, Virtual Networks, Azure Storage, AKS, NSG, VNG, Azure Key Vault, and App Service for enhanced 
-  project integration and scalability.
+**DevOps Engineer II @ SEI Investments (March 2025 – Present)** <be>
+-	Managing and provisioning Azure infrastructure using Terraform for scalable and secure deployments.
+-	Creating and maintaining CI/CD pipelines using Azure DevOps to automate application delivery.
+-	Administering and scaling Kubernetes (AKS) clusters to support containerized workloads.
+-	Implementing Infrastructure as Code(Terraform) best practices and security standards.
 - Deployed and managed Azure AKS clusters to support containerized applications.
--	Proficient in secret management, securely storing sensitive data like API keys, connection strings, and passwords using Azure Key Vault or Azure DevOps 
-  Variable Groups, while avoiding hardcoded secrets for enhanced security.
--	Proficient in utilizing Git for version control, including managing repositories, branching, and merging code changes.
--	Implemented and maintained Docker environments, ensuring smooth integration with existing infrastructure.
--	Automated administrative tasks using PowerShell scripts, improving operational efficiency.
--	Designed and deployed monitoring and alerting solutions to enhance system reliability and minimize downtime using Azure Monitor and Grafana resolving 
-  issues promptly to maintain high availability.
-- Configured role-based access control (RBAC) in Azure DevOps to restrict access to sensitive data and resources, effectively managing permissions and 
-  reducing the risk of unauthorized access.
+-	Collaborating cross-functionally to streamline deployments and reduce environment discrepancies.
 
+**Associate @ PwC India (September 2024 – March 2025)** <be>
+-	Developed CI/CD pipelines using GitHub Actions and Azure DevOps for automation across multiple projects.
+-	Utilized SonarQube for code quality analysis and integrated it into CI pipelines.
+-	Contributed to the standardization of DevOps practices across teams by implementing reusable Terraform modules.
+
+**Cloud Solution Engineer @ Ingram Micro Cloud (April 2021 – August 2024) <be>
+-	Led development of robust CI/CD pipelines using Azure DevOps, improving release speed and reliability.
+-	Designed and deployed Azure and AWS-based infrastructure for scalable applications.
+-	Provisioned infrastructure using Terraform with strong emphasis on modular and reusable code.
+-	Deployed and managed AKS clusters, along with configuring RBAC and security policies.
+-	Automated daily operational tasks using PowerShell and Bash scripts.
+-	Implemented monitoring and alerting solutions using Azure Monitor and Grafana.
+-	Managed secrets securely using Azure Key Vault and DevOps Variable Groups.
+-	Enforced RBAC in Azure DevOps for secure and compliant access control.
 
 ## Projects
 **[Go-Web-App-Devops-Project](https://github.com/Reliable-Royalty-29/go-web-app-devops.git)**
@@ -78,4 +86,5 @@
 
 Made with ❤️ in India
 
-&copy; 2024 Dheeman Das
+&copy; 2025 Dheeman Das
+© 2025 Dheeman Das
