@@ -3,9 +3,9 @@
 *Dedicated and result-driven DevOps Engineer with over 4 years of hands-on experience in optimizing IT operations, automating CI/CD processes, reducing cloud infrastructure costs, and enhancing system scalability. Seeking a challenging role to leverage expertise in Azure, Kubernetes, Terraform, and DevOps tools within a collaborative and growth-oriented environment.*
 
 #### Technical Skills: 
-Cloud & DevOps: Microsoft Azure, AWS, Azure DevOps, GitHub Actions, Terraform, Kubernetes, Docker, Helm, ArgoCD (GitOps).
-Scripting & Automation: PowerShell, Bash.
-Version Control & Monitoring: Git, Grafana, Azure Monitor, SonarQube
+- Cloud & DevOps: Microsoft Azure, AWS, Azure DevOps, GitHub Actions, Terraform, Kubernetes, Docker, Helm, ArgoCD (GitOps).
+- Scripting & Automation: PowerShell, Bash.
+- Version Control & Monitoring: Git, Grafana, Azure Monitor, SonarQube
 
 ## Education
 
