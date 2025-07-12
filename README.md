@@ -35,7 +35,7 @@ Version Control & Monitoring: Git, Grafana, Azure Monitor, SonarQube
 -	Utilized SonarQube for code quality analysis and integrated it into CI pipelines.
 -	Contributed to the standardization of DevOps practices across teams by implementing reusable Terraform modules.
 
-**Cloud Solution Engineer @ Ingram Micro Cloud (April 2021 – August 2024) <be>
+**Cloud Solution Engineer @ Ingram Micro Cloud (April 2021 – August 2024)** <be>
 -	Led development of robust CI/CD pipelines using Azure DevOps, improving release speed and reliability.
 -	Designed and deployed Azure and AWS-based infrastructure for scalable applications.
 -	Provisioned infrastructure using Terraform with strong emphasis on modular and reusable code.
